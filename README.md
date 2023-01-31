@@ -22,5 +22,6 @@ Run server `node index.js` or `nodemon index` if using nodemon.\
 Server run default on port `5000`.
 
 ### `Database`
+
 Make databse `mern_pagination_db`.\
 [MySQL](https://www.mysql.com/) database needed.
